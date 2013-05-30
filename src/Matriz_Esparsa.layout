@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="arquivo.c" open="1" top="0" tabpos="3">
+		<Cursor position="689" topLine="16" />
+	</File>
+	<File name="arquivo.h" open="1" top="0" tabpos="2">
+		<Cursor position="191" topLine="0" />
+	</File>
+	<File name="constantes.h" open="1" top="0" tabpos="4">
+		<Cursor position="337" topLine="2" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="1">
+		<Cursor position="426" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>

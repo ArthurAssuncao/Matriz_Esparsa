@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1321606713 source:c:\programacao\estrutura de dados 1\tp1\exercicio 02\matriz_esparsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD/lista.h"
+	"arquivo.h"
+
+1321606713 "
+
+1321604014 source:c:\programacao\estrutura de dados 1\tp1\exercicio 02\matriz_esparsa\tad\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1321604014 
+
+1321603171 c:\programacao\estrutura de dados 1\tp1\exercicio 02\matriz_esparsa\tad\lista.h
+
+1321578228 source:c:\programacao\estrutura de dados 1\tp1\exercicio 02\matriz_esparsa\arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+	"TAD/lista.h"
+
+1321339365 .h"
+
+1321339365 c:\programacao\estrutura de dados 1\tp1\exercicio 02\matriz_esparsa\arquivo.h
+	"TAD/lista.h"
+
+1369866013 source:/home/falcao/github/Matriz_Esparsa/MatrizEsparsa/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TAD/matriz_esparsa.h"
+	"arquivo.h"
+	"constantes.h"
+
+1369866169 /home/falcao/github/Matriz_Esparsa/MatrizEsparsa/arquivo.h
+	"TAD/matriz_esparsa.h"
+
+1369866301 /home/falcao/github/Matriz_Esparsa/MatrizEsparsa/TAD/matriz_esparsa.h
+
+1369866296 source:/home/falcao/github/Matriz_Esparsa/MatrizEsparsa/arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+	"TAD/matriz_esparsa.h"
+
+1369863337 source:/home/falcao/github/Matriz_Esparsa/MatrizEsparsa/TAD/matriz_esparsa.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_esparsa.h"
+
+1369864403 /home/falcao/github/Matriz_Esparsa/MatrizEsparsa/constantes.h
+
+1369871170 source:/home/falcao/github/Matriz_Esparsa/src/arquivo.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivo.h"
+	"matriz_esparsa.h"
+
+1369871164 /home/falcao/github/Matriz_Esparsa/src/arquivo.h
+	"matriz_esparsa.h"
+
+1369866301 /home/falcao/github/Matriz_Esparsa/src/matriz_esparsa.h
+
+1369871160 source:/home/falcao/github/Matriz_Esparsa/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matriz_esparsa.h"
+	"arquivo.h"
+	"constantes.h"
+
+1369864403 /home/falcao/github/Matriz_Esparsa/src/constantes.h
+
