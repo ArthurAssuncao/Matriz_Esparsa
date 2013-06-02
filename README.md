@@ -1,7 +1,7 @@
 Matriz Esparsa
 ==============
 
-**Matriz esparsa** desenvolvida em **C** utilizando **Lista encadeada circular**. Apresentado na disciplina de **Estrutura de Dados I**.
+**Matriz esparsa** desenvolvida em **C** utilizando **Lista encadeada circular**. Apresentado na disciplina de **Estrutura de Dados I** do 2º período do curso **Tecnologia em Sistemas para Internet** do Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais.
 
 ####Formato matriz de teste
 ```
